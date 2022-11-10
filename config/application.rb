@@ -92,6 +92,7 @@ module Mastodon
       :eu,
       :fa,
       :fi,
+      :fo,
       :fr,
       :ga,
       :gd,
